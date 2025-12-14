@@ -3,7 +3,7 @@
 This project applies machine learning models to predict machine failure using sensor and maintenance data.
 
 ## Files
-- `Project.ipynb` – Jupyter Notebook containing the full code
+- `Project1.ipynb` – Jupyter Notebook containing the full code
 - `sensor_maintenance_data 2.csv` – Dataset used in the project
 
 ## How to Run
